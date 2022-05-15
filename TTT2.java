@@ -5,10 +5,10 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * Write a description of class TTT2 here.
+ * Simple TicTacToe GUI
  * https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Dillon Shelton
+ * @version 2, 5/12/22
  */
 public class TTT2 extends JFrame implements ActionListener{
     JPanel boardPanel = new JPanel();
