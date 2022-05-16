@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 /**
  * Simple TicTacToe GUI
- * https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html 
+ * 2 Player TicTacToe
  * @author Dillon Shelton
  * @version 2, 5/12/22
  */
