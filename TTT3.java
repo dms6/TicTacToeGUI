@@ -5,10 +5,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * 
  * TicTacToe with AI
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Dillon Shelton
+ * @version 5/15/22
  */
 public class TTT3 extends JFrame implements ActionListener{
     JPanel boardPanel = new JPanel();
