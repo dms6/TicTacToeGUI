@@ -5,10 +5,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Write a description of class TTT2 here.
- * https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html 
- * @author (your name) 
- * @version (a version number or a date)
+ * Replicates that one scene in wargames
+ * AI vs AI, progressively gets faster
+ * @author Dillon Shelton
+ * @version 5/16
  */
 public class wargames extends JFrame{
     JPanel boardPanel = new JPanel();
