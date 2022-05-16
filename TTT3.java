@@ -5,8 +5,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Write a description of class TTT2 here.
- * https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html 
+ * 
+ * TicTacToe with AI
  * @author (your name) 
  * @version (a version number or a date)
  */
